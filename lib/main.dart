@@ -26,7 +26,7 @@ class SniperScreen extends StatefulWidget {
 
 class _SniperScreenState extends State<SniperScreen> {
   List alerts = [];
-  final String url = "http://ТВОЙ_АДРЕС_ТУННЕЛЯ/api/data"; // Сюда впишешь адрес из EXE
+  final String url = "String url = "https://hiking-words-knee-agencies.trycloudflare.com/levels"; // Сюда впишешь адрес из EXE
 
   Future update() async {
     try {
